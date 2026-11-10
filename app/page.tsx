@@ -16,27 +16,8 @@ export default function Home() {
         <div className={styles.intro}>
           <h1>
             Iss hi baat pe {" "}
-            <code className={styles.code}>Party dedo</code> file.
+            <code className={styles.code}>Party dedo</code>.
           </h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
         </div>
         <div className={styles.ctas}>
           <a
